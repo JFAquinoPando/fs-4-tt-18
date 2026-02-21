@@ -15,7 +15,8 @@ Lorem ipsum
     <title>Document</title>
 </head>
 <body>
-    
+    <img src="https://avatars.githubusercontent.com/u/30750622?s=48&v=4">
 </body>
 </html>
 ```
+![alt imagen_prueba](https://avatars.githubusercontent.com/u/30750622?s=48&v=4)
